@@ -1,0 +1,12 @@
+.newToDoItem__container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  padding: 40px;
+}
+hr {
+  margin: 0 50px;
+}
+#textInput {
+  width: 50%;
+}
